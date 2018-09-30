@@ -1,0 +1,12 @@
+hello
+xin chào
+goodbye
+tạm biệt
+dog
+con chó
+cat
+con mèo
+book
+quyển sách
+computer
+máy tính
